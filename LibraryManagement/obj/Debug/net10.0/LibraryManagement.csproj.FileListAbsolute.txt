@@ -1,0 +1,8 @@
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
