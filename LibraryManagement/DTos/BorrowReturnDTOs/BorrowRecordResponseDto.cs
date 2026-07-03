@@ -2,7 +2,7 @@
 
 public class BorrowRecordResponseDto
 {
-    public int Id { get; set; }
+    public int RecordId { get; set; }
     public string BookName { get; set; }
     public string MemberName { get; set; }
     public string BookCopyCode { get; set; }

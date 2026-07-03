@@ -9,3 +9,5 @@ public class Book : BaseEntity,IsDeletable
     public bool IsDeletable { get; set; } = false;
     public ICollection<BookCopy> Copies { get; set; } = new List<BookCopy>();   
 }
+
+
