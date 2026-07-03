@@ -1,4 +1,5 @@
 ﻿using LibraryManagement.DTos.MemberDTOs;
+using LibraryManagement.Model;
 
 namespace LibraryManagement.Services.Interface;
 
@@ -9,4 +10,6 @@ public interface IMemberService
     Task<MemberResponseDTO> CreateMember(MemberCreateDTO dto);
     Task<MemberResponseDTO> UpdateMember(int id,MemberUpdateDTOs dto);
     Task<bool> Delete(int id);
+    Task<IEnumerable<MemberResponseDTO>> MemberOverdueMorethan3();
+
 }

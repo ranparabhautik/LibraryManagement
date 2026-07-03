@@ -11,4 +11,9 @@ public class MemberRepository(AppDbContext context) : GenericRepository<Member>(
     {
         return await _context.Members.Include(x => x.BorrowRecords).ThenInclude(x => x.BookCopy).FirstOrDefaultAsync(x => x.Id == id);
     }
+
+    public async Task<IEnumerable<Member>> GetMemberOverDueMoreThan3()
+    {
+        return await _context.Members.Where(x => x.BorrowRecords.Count(x => x.ReturnAt != null && x.ReturnAt > x.BorrowedAt.AddMinutes(2)) > 2).ToListAsync();
+    }
 }

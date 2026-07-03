@@ -16,17 +16,18 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
         _dbset = context.Set<T>();
     }
     
-    public async Task Create(T entity)
+    public  async Task Create(T entity)
     {
-        await _dbset.AddAsync(entity);
-        await _context.SaveChangesAsync();
+         await _dbset.AddAsync(entity);
+        //await _context.SaveChangesAsync();
     }
 
     public async Task Delete(int id)
     {
         var existing = await _dbset.FindAsync(id);
         _dbset.Remove(existing);
-        await _context.SaveChangesAsync();
+
+        //await _context.SaveChangesAsync();
     }
 
     public async Task<IEnumerable<T>> GetAll()
@@ -40,10 +41,11 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
         return existing;
     }
 
-    public async Task Update(T entity)
+    public Task Update(T entity)
     {
          _dbset.Update(entity);
-        await _context.SaveChangesAsync();
+        return Task.CompletedTask;
+        //await _context.SaveChangesAsync();
 
     }
 }

@@ -6,14 +6,14 @@ using LibraryManagement.Services.Interface;
 
 namespace LibraryManagement.Services.Implementation;
 
-public class BorrowService(IMapper _mapper, IBorrowRecordRepository _borrowRepo, IBookRepository _bookRepo, IMemberRepository _memberRepo, IBookCopyRepository _copyRepo) : IBorrowService
+public class BorrowService(IMapper _mapper,IUnitOfWork uow) : IBorrowService
 {
     public async Task<BorrowRecordResponseDto> BorrowBook(BookBorrowDTO dto)
     {
-        var member = await _memberRepo.GetById(dto.MemberId);
+        var member = await uow.MemberUOW.GetById(dto.MemberId);
         if (member == null) { throw new Exception("Member not found"); }
 
-        var bookcopy = await _copyRepo.GetBoolCopywithBook(dto.BookCopyId);
+        var bookcopy = await uow.BookCopiesUOW.GetAvailabeCopy(dto.BookId);
         if (bookcopy == null) { throw new Exception("Book not found"); }
 
         if (!bookcopy.IsAvailable)
@@ -24,29 +24,53 @@ public class BorrowService(IMapper _mapper, IBorrowRecordRepository _borrowRepo,
         var borrowrecord = new BorrowRecord
         {
             MemberId = dto.MemberId,
-            BookCopyId = dto.BookCopyId,
+            BookCopyId = bookcopy.Id,
             BorrowedAt = DateTime.Now,
             ReturnAt = null
         };
-        await _borrowRepo.Create(borrowrecord);
-
+        await uow.BorrowUOW.Create(borrowrecord);
+             
         bookcopy.IsAvailable = false;
-        await _copyRepo.Update(bookcopy);
+        await uow.BookCopiesUOW.Update(bookcopy);
 
         bookcopy.Books.CopyIssued++;
-        await _bookRepo.Update(bookcopy.Books);
+        await uow.BookUOW.Update(bookcopy.Books);
 
-        return _mapper.Map<BorrowRecordResponseDto>(borrowrecord);
+        await uow.SaveChangesAsync();
 
+        var result = await uow.BorrowUOW.GetBorrowRecordsWithDetails(borrowrecord.Id);
+
+        return _mapper.Map<BorrowRecordResponseDto>(result);
     }
 
-    public Task<IEnumerable<BorrowRecordResponseDto>> GetActiveBorrow()
+    public async Task<IEnumerable<BorrowRecordResponseDto>> GetActiveBorrow()
     {
-        throw new NotImplementedException();
+        var records = await uow.BorrowUOW.GetActiveBorrow();
+        return _mapper.Map<IEnumerable< BorrowRecordResponseDto>>(records);
     }
 
-    public Task<BorrowRecordResponseDto> ReturnBook(ReturnBookDTO dto)
+    public async Task<BorrowRecordResponseDto> ReturnBook(ReturnBookDTO dto)
     {
-        throw new NotImplementedException();
+        var borrow = await uow.BorrowUOW.GetBorrowRecordsWithDetails(dto.BorrowRecordId);
+        if(borrow == null)
+        {
+            throw new Exception("Record not found");
+        }
+        
+        if(borrow.ReturnAt != null)
+        {
+            throw new Exception("Book Already returned");   
+        }
+        borrow.ReturnAt = DateTime.Now;
+        await uow.BorrowUOW.Update(borrow);
+
+        borrow.BookCopy.IsAvailable = true;
+        await uow.BookCopiesUOW.Update(borrow.BookCopy);
+
+        borrow.BookCopy.Books.CopyIssued--;
+        await uow.BookUOW.Update(borrow.BookCopy.Books);
+
+        await uow.SaveChangesAsync();
+        return _mapper.Map<BorrowRecordResponseDto>(borrow);
     }
 }

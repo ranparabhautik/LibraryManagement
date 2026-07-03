@@ -9,7 +9,7 @@ public class BookCopyRepository(AppDbContext context) : GenericRepository<BookCo
 {
     public async Task<BookCopy> GetAvailabeCopy(int bookId)
     {
-        return await _context.BookCopies.FirstOrDefaultAsync(x=> x.BookId == bookId && x.IsAvailable);
+        return await _context.BookCopies.Include(x => x.Books).FirstOrDefaultAsync(x=> x.BookId == bookId && x.IsAvailable);
     }
 
     

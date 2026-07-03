@@ -11,4 +11,9 @@ public class BorrowRecordRepository(AppDbContext context) : GenericRepository<Bo
     {
         return await _context.BorrowRecords.Where(x => x.ReturnAt == null).Include(x => x.Member).Include(x => x.BookCopy).ToListAsync();
     }
+
+    public async Task<BorrowRecord?> GetBorrowRecordsWithDetails(int id)
+    {
+        return await _context.BorrowRecords.Include(x => x.Member).Include(x => x.BookCopy).ThenInclude(x => x.Books).FirstOrDefaultAsync(x=> x.Id == id);
+    }
 }

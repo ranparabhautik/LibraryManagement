@@ -16,7 +16,7 @@ namespace LibraryManagement.Data
             modelBuilder.Entity<Member>().HasMany(x => x.BorrowRecords).WithOne(x => x.Member).HasForeignKey(x => x.MemberId);
             modelBuilder.Entity<BookCopy>().HasMany(x => x.BorrowRecords).WithOne(x => x.BookCopy).HasForeignKey(x => x.BookCopyId);
 
-            modelBuilder.Entity<Book>().HasQueryFilter(x => !x.IsDeletable);
+            //modelBuilder.Entity<Book>().HasQueryFilter(x => !x.IsDeletable);         
         }
     }
 }
