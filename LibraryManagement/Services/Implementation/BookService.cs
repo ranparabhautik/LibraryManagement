@@ -41,6 +41,7 @@ public class BookService(IBookRepository _repo, IMapper _mapper,IBookCopyReposit
         if(book is IsDeletable softdel)
         {
             softdel.IsDeletable = true;
+            await _repo.Update(book);
             return true;
         }
         else
@@ -68,7 +69,7 @@ public class BookService(IBookRepository _repo, IMapper _mapper,IBookCopyReposit
         var book = await _repo.GetById(id);
         if (book == null)
             throw new Exception("Book not found.");
-        var mappedbook = _mapper.Map<Book>(dto);
+        var mappedbook = _mapper.Map(dto,book);
         await _repo.Update(mappedbook);
         return _mapper.Map<BookResponseDTO>(mappedbook);
     }

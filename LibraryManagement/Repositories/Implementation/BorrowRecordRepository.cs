@@ -1,9 +1,9 @@
 ﻿using LibraryManagement.Data;
 using LibraryManagement.Model;
-using LibraryManagement.Repositories.Implementation;
+using LibraryManagement.Repositories.Interface;
 using Microsoft.EntityFrameworkCore;
 
-namespace LibraryManagement.Repositories.Interface;
+namespace LibraryManagement.Repositories.Implementation;
 
 public class BorrowRecordRepository(AppDbContext context) : GenericRepository<BorrowRecord>(context), IBorrowRecordRepository
 {

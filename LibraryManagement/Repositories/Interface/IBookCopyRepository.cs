@@ -5,4 +5,5 @@ namespace LibraryManagement.Repositories.Interface;
 public interface IBookCopyRepository:IGenericRepository<BookCopy>
 {
     Task<BookCopy> GetAvailabeCopy(int bookId);
+    Task<BookCopy?> GetBoolCopywithBook(int id);
 }

@@ -1,6 +1,6 @@
 ﻿namespace LibraryManagement.Model;
 
-public class BookCopy:BaseEntity
+public class    BookCopy:BaseEntity
 {
     public int BookId { get; set; }
     public Book Books { get; set; }

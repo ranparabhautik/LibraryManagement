@@ -11,4 +11,11 @@ public class BookCopyRepository(AppDbContext context) : GenericRepository<BookCo
     {
         return await _context.BookCopies.FirstOrDefaultAsync(x=> x.BookId == bookId && x.IsAvailable);
     }
+
+    
+
+    async Task<BookCopy?> IBookCopyRepository.GetBoolCopywithBook(int id)
+    {
+        return await _context.BookCopies.Include(x=> x.Books).FirstOrDefaultAsync(x=> x.Id == id);
+    }
 }
