@@ -1,14 +1,56 @@
 ﻿using LibraryManagement.DTos.MemberDTOs;
+using LibraryManagement.Model.Identity;
 using LibraryManagement.Services.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LibraryManagement.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
-public class MemberController(IMemberService memberService): ControllerBase
+public class MemberController(IMemberService memberService,UserManager<ApplicationUser> usermanager): ControllerBase
 {
+
+    [AllowAnonymous]
+    [HttpPost("create-admin")]
+    public async Task<IActionResult> CreateAdmin()
+    {
+        // Check if an admin already exists
+        var existingAdmin = await usermanager.FindByEmailAsync("admin@gmail.com");
+
+        if (existingAdmin != null)
+        {
+            return BadRequest("Admin already exists.");
+        }
+
+        var admin = new ApplicationUser
+        {
+            UserName = "admin",
+            Email = "admin@gmail.com",
+            FullName = "System Admin",
+            City = "Ahmedabad",
+            Region = "Gujarat"
+        };
+
+        var result = await usermanager.CreateAsync(admin, "Admin@123");
+
+        if (!result.Succeeded)
+        {
+            return BadRequest(result.Errors);
+        }
+
+        var roleResult = await usermanager.AddToRoleAsync(admin, AppRoles.Admin);
+
+        if (!roleResult.Succeeded)
+        {
+            return BadRequest(roleResult.Errors);
+        }
+
+        return Ok("Admin created successfully.");
+    }
+
     [HttpGet]
     public async Task<IActionResult> GetAllMember()
     {

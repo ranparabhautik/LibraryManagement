@@ -9,3 +9,5 @@ public class BookCopy:BaseEntity
     public ICollection<BorrowRecord> BorrowRecords { get; set; } = new List<BorrowRecord>();
 }
     
+
+

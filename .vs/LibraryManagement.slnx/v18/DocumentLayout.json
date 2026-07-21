@@ -3,112 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\implementation\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\implementation\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\mappingprofile\\librarymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\mappingprofile\\librarymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\borrowreturndtos\\borrowrecordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\borrowreturndtos\\borrowrecordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\borrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\borrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\bookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\bookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\implementation\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\implementation\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\ibookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\ibookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\identity\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\identity\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\borrowreturndtos\\bookborrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\borrowreturndtos\\bookborrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\identity\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\identity\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\borrowreturndtos\\returnbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\borrowreturndtos\\returnbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\mappingprofile\\librarymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\mappingprofile\\librarymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\democlasses\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\democlasses\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,24 +51,60 @@
       "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\implementation\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\implementation\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\bookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\bookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\borrowreturndtos\\bookborrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\borrowreturndtos\\bookborrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\implementation\\borrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\implementation\\borrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\bookdtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookdtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\memberdtos\\memberupdatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\memberdtos\\memberupdatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\memberdtos\\memberresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,12 +115,60 @@
       "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\memberdtos\\membercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\memberdtos\\memberupdatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\memberdtos\\memberupdatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\borrowreturndtos\\returnbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\borrowreturndtos\\returnbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\borrowreturndtos\\borrowrecordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\borrowreturndtos\\borrowrecordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\dtos\\bookdtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookdtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\ibookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\ibookcopyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\implementation\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\implementation\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\services\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\repositories\\interface\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\repositories\\interface\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E2B733A-DBF8-FDB5-F770-1327FBD7B25A}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\librarymanagement\\librarymanagement\\model\\isdeletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,295 +186,236 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Model\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BaseEntity.cs",
-              "RelativeToolTip": "LibraryManagement\\Model\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T09:47:03.485Z",
+              "WhenOpened": "2026-07-02T06:28:14.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Book.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Book.cs",
-              "RelativeToolTip": "LibraryManagement\\Model\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T09:48:25.713Z",
+              "WhenOpened": "2026-07-03T05:22:39.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BookCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
-              "RelativeToolTip": "LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:30:53.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookCopy.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BookCopy.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Model\\BookCopy.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BookCopy.cs",
-              "RelativeToolTip": "LibraryManagement\\Model\\BookCopy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T05:40:27.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LibraryMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\MappingProfile\\LibraryMappingProfile.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\MappingProfile\\LibraryMappingProfile.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\MappingProfile\\LibraryMappingProfile.cs",
               "RelativeToolTip": "LibraryManagement\\MappingProfile\\LibraryMappingProfile.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBUAAAB0AQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T11:22:15.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BookService.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Implementation\\BookService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BookService.cs",
-              "RelativeToolTip": "LibraryManagement\\Services\\Implementation\\BookService.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowEsAAABMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Identity\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Identity\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Identity\\RoleSeeder.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Identity\\RoleSeeder.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T12:29:21.384Z",
+              "WhenOpened": "2026-07-21T11:35:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppRoles.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Identity\\AppRoles.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Identity\\AppRoles.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Identity\\AppRoles.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Identity\\AppRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T11:32:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T10:38:56.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BorrowService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BorrowService.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Implementation\\BorrowService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BorrowService.cs",
-              "RelativeToolTip": "LibraryManagement\\Services\\Implementation\\BorrowService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T04:59:19.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BorrowRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:46:33.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BorrowRecordResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
-              "RelativeToolTip": "LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T10:11:19.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BookRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BookRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\BookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:27:59.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BookCopyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:43:05.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:56:32.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "LibraryManagement\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T06:28:14.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Program.cs",
-              "RelativeToolTip": "LibraryManagement\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T07:59:33.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IMemberService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IMemberService.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interface\\IMemberService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IMemberService.cs",
-              "RelativeToolTip": "LibraryManagement\\Services\\Interface\\IMemberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T06:38:33.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "MemberController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\MemberController.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\MemberController.cs",
               "RelativeToolTip": "LibraryManagement\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T08:23:31.804Z"
+              "WhenOpened": "2026-07-03T08:23:31.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\MemberService.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Implementation\\MemberService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\MemberService.cs",
-              "RelativeToolTip": "LibraryManagement\\Services\\Implementation\\MemberService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DemoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Data\\DemoDBContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\DemoDBContext.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Data\\DemoDBContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\DemoDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:43:07.338Z"
+              "WhenOpened": "2026-07-17T09:23:53.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\UnitOfWork.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:22:39.904Z"
+              "WhenOpened": "2026-07-03T07:59:33.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BorrowController.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BorrowController.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
-              "RelativeToolTip": "LibraryManagement\\Controllers\\BorrowController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DemoClasses\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DemoClasses\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DemoClasses\\ApplicationUser.cs",
+              "RelativeToolTip": "LibraryManagement\\DemoClasses\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T08:33:09.602Z"
+              "WhenOpened": "2026-07-21T09:04:41.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IBookCopyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:40:50.123Z"
+              "WhenOpened": "2026-07-02T07:12:36.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ReturnBookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
-              "RelativeToolTip": "LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T10:10:28.178Z"
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T08:06:18.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Member.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Member.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T09:53:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "BookBorrowDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\BookBorrowDTO.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BorrowReturnDTOs\\BookBorrowDTO.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\BookBorrowDTO.cs",
               "RelativeToolTip": "LibraryManagement\\DTos\\BorrowReturnDTOs\\BookBorrowDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T10:04:53.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IBorrowRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:10:28.101Z"
+              "WhenOpened": "2026-07-03T08:08:35.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 15,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BorrowService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Implementation\\BorrowService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BorrowService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Implementation\\BorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T04:59:19.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
+              "RelativeToolTip": "LibraryManagement\\DTos\\BookDTOS\\BookCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:30:53.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Implementation\\BookService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\BookService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Implementation\\BookService.cs",
+              "ViewState": "AgIAADwAAAAAUaT7OT0ZwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:29:21.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IUnitOfWork.cs",
@@ -466,155 +423,84 @@
               "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T05:18:31.675Z"
+              "WhenOpened": "2026-07-03T05:18:31.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\MemberRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:25:12.96Z"
+              "WhenOpened": "2026-07-02T08:56:32.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "BookCopyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\BookCopyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T08:08:35.535Z"
+              "WhenOpened": "2026-07-02T08:43:05.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 21,
+              "Title": "BorrowRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\BorrowRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T05:46:33.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T08:55:07.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IGenericRepository.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IGenericRepository.cs",
               "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T06:53:42.336Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Implementation\\GenericRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAMwCQAAAAAAAAAAAAAAA==",
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T07:12:36.375Z"
+              "WhenOpened": "2026-07-02T08:25:12.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\appsettings.json",
-              "RelativeToolTip": "LibraryManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-03T08:06:18.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IBookService.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interface\\IBookService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IBookService.cs",
-              "RelativeToolTip": "LibraryManagement\\Services\\Interface\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:23:38.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "LibraryManagement\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Properties\\launchSettings.json",
-              "RelativeToolTip": "LibraryManagement\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-03T08:42:52.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
-              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IMemberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T08:55:07.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Member.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Member.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Member.cs",
-              "RelativeToolTip": "LibraryManagement\\Model\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T09:53:43.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BookResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
-              "RelativeToolTip": "LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:36:42.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "MemberResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
-              "RelativeToolTip": "LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:58:12.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "MemberCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
-              "RelativeToolTip": "LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:57:33.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 25,
               "Title": "MemberUpdateDTOs.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberUpdateDTOs.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\DTos\\MemberDTOs\\MemberUpdateDTOs.cs",
@@ -626,19 +512,199 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 26,
+              "Title": "MemberResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
+              "RelativeToolTip": "LibraryManagement\\DTos\\MemberDTOs\\MemberResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:58:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MemberCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
+              "RelativeToolTip": "LibraryManagement\\DTos\\MemberDTOs\\MemberCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:57:33.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReturnBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
+              "RelativeToolTip": "LibraryManagement\\DTos\\BorrowReturnDTOs\\ReturnBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T10:10:28.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BorrowRecordResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTos\\BorrowReturnDTOs\\BorrowRecordResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T10:11:19.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "BookUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookUpdateDTO.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BookDTOS\\BookUpdateDTO.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookUpdateDTO.cs",
               "RelativeToolTip": "LibraryManagement\\DTos\\BookDTOS\\BookUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T09:35:19.864Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
+              "RelativeToolTip": "LibraryManagement\\DTos\\BookDTOS\\BookResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:36:42.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookCopy.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BookCopy.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\BookCopy.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BookCopy.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\BookCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T05:40:27.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T09:48:25.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\BaseEntity.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T09:47:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBookCopyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IBookCopyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T08:40:50.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\MemberService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Implementation\\MemberService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Implementation\\MemberService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Implementation\\MemberService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA9wD8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T05:43:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interface\\IBookService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Interface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:23:38.786Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 38,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IMemberService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interface\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Services\\Interface\\IMemberService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Interface\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:38:33.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T08:33:09.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBorrowRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Repositories\\Interface\\IBorrowRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T05:10:28.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibraryManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T08:42:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "IsDeletable.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LibraryManagement\\LibraryManagement\\Model\\IsDeletable.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Model\\IsDeletable.cs",

@@ -1,5 +1,6 @@
 ﻿using LibraryManagement.DTos.BookDTOS;
 using LibraryManagement.Services.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace LibraryManagement.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class BooksController(IBookService bookservice) : ControllerBase
     {
         [HttpGet]

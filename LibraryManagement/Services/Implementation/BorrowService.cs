@@ -14,7 +14,8 @@ public class BorrowService(IMapper _mapper,IUnitOfWork uow) : IBorrowService
         if (member == null) { throw new Exception("Member not found"); }
 
         var bookcopy = await uow.BookCopiesUOW.GetAvailabeCopy(dto.BookId);
-        if (bookcopy == null) { throw new Exception("Book not found"); }
+        if (bookcopy == null) { throw new Exception("Book not found"); }             
+
 
         if (!bookcopy.IsAvailable)
         {

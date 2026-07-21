@@ -155,10 +155,11 @@ C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\o
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryM.685EF3B5.Up2Date
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.dll
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\refint\LibraryManagement.dll
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.pdb
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\LibraryManagement.genruntimeconfig.cache
 C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\ref\LibraryManagement.dll
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\bhautik.ranpara\source\repos\MCPs\LibraryManagement\LibraryManagement\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

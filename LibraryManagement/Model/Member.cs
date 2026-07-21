@@ -1,10 +1,13 @@
-﻿namespace LibraryManagement.Model;
+﻿using LibraryManagement.Model.Identity;
+
+namespace LibraryManagement.Model;
 
 public class Member : BaseEntity
 {
-    public string MemberName { get ; set ; }
-    public string Email { get; set; }
-    public string PhoneNumber { get; set; }
+    public Guid AppUserId { get; set; }
+    public ApplicationUser ApplicationUser { get; set; }
+
+
 
     public ICollection<BorrowRecord>  BorrowRecords { get; set; } = new List<BorrowRecord>();
 }

@@ -1,9 +1,11 @@
 using LibraryManagement.Data;
 using LibraryManagement.MappingProfile;
+using LibraryManagement.Model.Identity;
 using LibraryManagement.Repositories.Implementation;
 using LibraryManagement.Repositories.Interface;
 using LibraryManagement.Services.Implementation;
 using LibraryManagement.Services.Interface;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +25,23 @@ builder.Services.AddAutoMapper(cfg =>
 {
     cfg.AddProfile<LibraryMappingProfile>();
 });
+
+
+//identity
+builder.Services.AddIdentity<ApplicationUser, IdentityRole<Guid>>(option =>
+{
+    option.Password.RequiredLength = 3;
+    option.Password.RequireNonAlphanumeric = false;
+    option.Password.RequiredUniqueChars = 0;
+    option.Password.RequireDigit = true;
+    option.Password.RequireUppercase = false;
+    option.User.RequireUniqueEmail = true;
+    option.Lockout.MaxFailedAccessAttempts = 2;
+    option.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromSeconds(30);
+    option.SignIn.RequireConfirmedEmail = false;
+}).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+
 
 // Repositories
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
@@ -44,7 +63,17 @@ builder.Services.AddScoped<IBorrowService, BorrowService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddAuthentication();
+builder.Services.AddAuthorization();
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var roleManager =
+        scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole<Guid>>>();
+
+    await RoleSeeder.SeedAsync(roleManager);
+}
 
 // Configure HTTP Pipeline
 if (app.Environment.IsDevelopment())
@@ -54,7 +83,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

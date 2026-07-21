@@ -19,7 +19,6 @@ public class LibraryMappingProfile:Profile
         CreateMap<MemberUpdateDTOs,Member>().ReverseMap();
         CreateMap<Member, MemberResponseDTO>();
 
-        CreateMap<BorrowRecord, BorrowRecordResponseDto>().ForMember(dest => dest.BookName, opt => opt.MapFrom(src=>src.BookCopy.Books.BookName)).ForMember(dest => dest.MemberName, opt => opt.MapFrom(src => src.Member.MemberName)).ForMember(dest=> dest.BookCopyCode,opt=> opt.MapFrom(src=>src.BookCopy.CopyId)).ForMember(dest=> dest.RecordId,opt=> opt.MapFrom(src=> src.Id));
-
+        CreateMap<BorrowRecord, BorrowRecordResponseDto>().ForMember(dest => dest.BookName, opt => opt.MapFrom(src=>src.BookCopy.Books.BookName)).ForMember(dest => dest.MemberName, opt => opt.MapFrom(src => src.Member.ApplicationUser.FullName)).ForMember(dest=> dest.BookCopyCode,opt=> opt.MapFrom(src=>src.BookCopy.CopyId)).ForMember(dest=> dest.RecordId,opt=> opt.MapFrom(src=> src.Id));
     }
 }
